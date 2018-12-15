@@ -1,6 +1,6 @@
 # magic-recursion
-The repository contains mini-projects which uses visualisation tools to show the simplicity, power and beauty of recursion.
-They are implemented using **Pyhton** and **Turtle** module is used for visualisation.
+The repository contains mini-projects which use visualisation tools to show the simplicity, power, and beauty of recursion.
+They are implemented using **Python** and **Turtle** module is used for visualisation.
 
 ## Mini-projects are as follows:
 1. **Exploring a Maze - `exploring_maze.py`** 
